@@ -1,0 +1,34 @@
+**```Markdown
+## Alguns comandos:
+```**
+**.whpl Black Desert Online** (ver quem está jogando o jogo)
+**$nroll 100** (rolar dado de 100)
+**$rolluo** (rolar dado de 6 lados)
+**~lmgtfy algumacoisaaqui** (ensina alguém a procurar algo no google)
+**~shorten http://urlaqui** (encurta URL)
+**~av @alguemaqui** (mostra o avatar de alguém do discord)
+**.convert BRL USD 10** (conversão entre moedas, medidas, etc)
+**~trans en>pt Hello** (tradução)
+**.iamn XXXX** (Ranger - Berserker - Kunoichi - Maehwa - Musa - Ninja - Sorceress - Tamer - Valkyrie - Warrior - Witch - Wizard - Dark Knight)
+**.iamnot XXXX** (tira associação à uma função)
+**-modules**
+**-h -cmds** ou **-h** (help)
+**~time Sao Paulo, BR**
+**~yt XXXX** (busca no youtube)
+**~imdb Batman vs Superman** (imdb)
+**~meow** (gatinhos)
+**~woof** (cachorrinhos)
+**~rimg XXX** (imagem randômica)
+**~img XXX** (primeira imagem da busca)
+**~img cute kitten** (ex, gatinhos fofinhos)
+**~def XXX** (definição para palavra ou termo)
+**~wiki XXX**
+**~cn** (random Chuck Norris joke)
+
+**Tips:**
+link sem preview: <url aqui>
+```
+negrito: **xxxx**
+itálico: __xxxx__
+```
+:end: 

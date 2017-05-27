@@ -1,18 +1,18 @@
-**```md
+ï»¿**```md
 ## Alguns comandos:
 ```**
-**.prune XXX** (limpar chat = XXX = número de linhas) (cuidado q apaga tudo ssa bosta heim)
+**.prune XXX** (limpar chat = XXX = nÃºmero de linhas) (cuidado q apaga tudo ssa bosta heim)
 **.prune @Someone** ou **.prune @Someone XXX**
 **.mute 30 @Someone**
 **.b "@some Guy" Your behaviour is toxic.**
-**.asar XXXX** (associa uma função à uma role, ex: .asar Ranger)
-**.rsar XXXX** (remove a função da role, ex: .rsar Ranger)
+**.asar XXXX** (associa uma funÃ§Ã£o Ã  uma role, ex: .asar Ranger)
+**.rsar XXXX** (remove a funÃ§Ã£o da role, ex: .rsar Ranger)
 **.lsar** (lista todas as roles)
-**.v+t** (habilita a criação e um canal de texto sempre que um canal de voice for criado) (bot owner only)
+**.v+t** (habilita a criaÃ§Ã£o e um canal de texto sempre que um canal de voice for criado) (bot owner only)
 **.logserver enable** (bot owner only)
 **.logevents** (bot owner only)
 **.greetdmmsg Bem-Vindo %user%**
-**.bye** (anuncia saída da pessoa)
+**.bye** (anuncia saÃ­da da pessoa)
 **.byemsg %user% vazou.**
 **.acr "hello" Hi there %user%** (custom reaction)
 **.setav http://i.imgur.com/xxxxxxxx.jpg** (trocar avatar)
@@ -23,7 +23,7 @@
 link sem preview: <url aqui>
 ```
 negrito: **xxxx**
-itálico: __xxxx__
+itÃ¡lico: __xxxx__
 ```
 
 :heavy_minus_sign:
