@@ -1,6 +1,6 @@
-**```md
-## Alguns comandos:
-```**
+```Markdown
+Alguns comandos:
+```
 **.prune XXX** (limpar chat = XXX = número de linhas) (cuidado q apaga tudo ssa bosta heim)
 **.prune @Someone** ou **.prune @Someone XXX**
 **.mute 30 @Someone**
